@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/schleppyj1/Jean#readme",
   "bin": {
-    "Jean Schleppy": "index.js"
+    "jean-schleppy": "index.js"
   }
 }
