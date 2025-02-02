@@ -1,0 +1,23 @@
+{
+  "name": "jean-schleppy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schleppyj1/Jean.git"
+  },
+  "keywords": [],
+  "author": "Jean Schleppy <g00299924@stu.raritanval.edu> (https://github.com/jeanschleppy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schleppyj1/Jean/issues"
+  },
+  "homepage": "https://github.com/schleppyj1/Jean#readme",
+  "bin": {
+    "Jean Schleppy": "index.js"
+  }
+}
