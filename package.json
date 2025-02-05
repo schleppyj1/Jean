@@ -19,5 +19,8 @@
   "homepage": "https://github.com/schleppyj1/Jean#readme",
   "bin": {
     "jean-schleppy": "index.js"
+  },
+  "dependencies": {
+    "jean-schleppy": "^1.1.0"
   }
 }
