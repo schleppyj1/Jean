@@ -1,10 +1,11 @@
 {
   "name": "jean-schleppy",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A CLI tool that prints my name.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint index.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,11 @@
     "jean-schleppy": "index.js"
   },
   "dependencies": {
-    "jean-schleppy": "^1.1.0"
+    "jean-schleppy": "^1.2.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.0",
+    "globals": "^15.14.0"
   }
 }
